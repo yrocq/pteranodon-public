@@ -1,0 +1,1 @@
+- Fetch = search in cache. If not found, search in database, if not found, get from network, save in database en cache
